@@ -2,7 +2,7 @@
 
 This test automation framework automates Hotel Booking Website.
 
-## Overview
+### Overview
 
 Create, Check and Delete booking in website
 
