@@ -1,6 +1,10 @@
-## Automation Testing – Hotel Website Exercise
+## Java based Test Automation framework using Selenium and Page Model structure
 
-This assignment is for automation testing exercise of Hotel Booking Website for Equal Experts.
+This test automation framework automates Hotel Booking Website.
+
+## Overview
+
+Create, Check and Delete booking in website
 
 
 ### Pre-req: This code uses JRE 1.8, so please upgrade to JRE1.8 before running the test
